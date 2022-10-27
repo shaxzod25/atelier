@@ -88,6 +88,7 @@ transition: 0.3s;
 .banner__wrap {
     text-align: center;
     padding-top: 120px;
+    
 }
 
 .banner__h2 {
@@ -110,7 +111,8 @@ line-height: 80px;
 letter-spacing: 1px;
 text-align: center;
 color: #FFFFFF;
-width: 869px;
+max-width: 869px;
+    width: 100%;
 margin: 0 auto;
 margin-bottom: 35px;
 }
@@ -172,8 +174,9 @@ text-transform: uppercase;
     flex-wrap: wrap;
     gap: 20px;
     margin: 0 auto;
-    width: 1202px;
-    
+    max-width: 1202px;
+    width: 100%;
+    justify-content: center;
 }
 
 .banner2 {
@@ -189,8 +192,11 @@ background: #181511;
 
 .servic__wrap {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
 }
 
 .serv {
