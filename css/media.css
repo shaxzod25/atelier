@@ -1,6 +1,8 @@
-@media  screen and (max-width: 1234px) {
-    .cards__wrap {
-        
+@media  screen and (max-width: 1116px) {
+    .insta__wrap {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
     }
 }
 
@@ -24,6 +26,12 @@
     .menu {
         flex-direction: column;
         gap: 15px;
+    }
+}
+
+@media screen and (max-width: 574px) {
+    .footer__h {
+        font-size: 30px;
     }
 }
 

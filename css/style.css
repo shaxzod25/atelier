@@ -6,11 +6,11 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-  }
+}
 
-  body {
+body {
     background: #181511;
-  }
+}
 
 .header {
     background: #181511;
@@ -33,27 +33,27 @@
 
 .menu {
     display: flex;
-gap: 40px;
+    gap: 40px;
 }
 
 .logo {
-    font-family: 'Old Standard TT' , sans-serif;
-font-weight: 400;
-font-size: 22px;
-line-height: 28px;
-color: #FFAE2B;
-text-align: center;
+    font-family: 'Old Standard TT', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFAE2B;
+    text-align: center;
 }
 
 .menu__link {
-    font-family: 'Old Standard TT' , sans-serif;
-font-weight: 400;
-font-size: 11px;
-line-height: 24px;
-text-transform: uppercase;
-color: #ACA592;
-text-align: center;
-transition: 0.3s;
+    font-family: 'Old Standard TT', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #ACA592;
+    text-align: center;
+    transition: 0.3s;
 }
 
 .menu__link:hover {
@@ -65,13 +65,13 @@ transition: 0.3s;
     background: none;
     border: 1px solid #FFAE2B;
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 11px;
-line-height: 22px;
-text-align: center;
-text-transform: uppercase;
-color: #FFAE2B;
-transition: 0.3s;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFAE2B;
+    transition: 0.3s;
 }
 
 .btn:hover {
@@ -88,60 +88,60 @@ transition: 0.3s;
 .banner__wrap {
     text-align: center;
     padding-top: 120px;
-    
+
 }
 
 .banner__h2 {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 12px;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 2px;
-text-align: center;
-color: #FFAE2B;
-text-transform: uppercase;
-margin-bottom: 15px;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #FFAE2B;
+    text-transform: uppercase;
+    margin-bottom: 15px;
 }
 
 .banner__h {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 70px;
-font-weight: 400;
-line-height: 80px;
-letter-spacing: 1px;
-text-align: center;
-color: #FFFFFF;
-max-width: 869px;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #FFFFFF;
+    max-width: 869px;
     width: 100%;
-margin: 0 auto;
-margin-bottom: 35px;
+    margin: 0 auto;
+    margin-bottom: 35px;
 }
 
 .cards {
     background: #181511;
-padding: 120px 0;
+    padding: 120px 0;
 }
 
 .cards__p {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 12px;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 2px;
-text-align: center;
-color: #ACA592;
-text-transform: uppercase;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #ACA592;
+    text-transform: uppercase;
 }
 
 .cards__h {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 60px;
-font-weight: 400;
-line-height: 70px;
-letter-spacing: 0em;
-text-align: center;
-color: #FFAE2B;
-margin-bottom: 60px;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFAE2B;
+    margin-bottom: 60px;
 }
 
 .card {
@@ -154,12 +154,12 @@ margin-bottom: 60px;
 
 .card__h {
     font-family: 'Old Standard TT';
-font-size: 13px;
-font-weight: 400;
-line-height: 23px;
-letter-spacing: 2px;
-color: #FFFFFF;
-text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    text-transform: uppercase;
 
 }
 
@@ -187,7 +187,7 @@ text-transform: uppercase;
 
 .service {
     padding: 120px;
-background: #181511;
+    background: #181511;
 }
 
 .servic__wrap {
@@ -200,45 +200,45 @@ background: #181511;
 }
 
 .serv {
-    padding: 60px ;
+    padding: 60px;
     width: 400px;
     height: 350px;
     border: 1px solid #4B4136;
 }
 
 .serv__h {
-    font-family:'Old Standard TT' , sans-serif ;
-font-size: 29px;
-font-weight: 400;
-line-height: 40px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFAE2B;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFAE2B;
 
 }
 
 .serv__p {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 15px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0em;
-text-align: left;
-color: #ACA592;
-margin-top: 10px;
-margin-bottom: 5px;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ACA592;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 
-.serv__p2{
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 11px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0em;
-text-align: left;
-color: #ACA592;
-width: 222px;
+.serv__p2 {
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ACA592;
+    width: 222px;
 }
 
 .insta {
@@ -275,7 +275,7 @@ width: 222px;
     z-index: 1;
 }
 
-.inst__logo{
+.inst__logo {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -288,29 +288,30 @@ width: 222px;
 }
 
 .inst__h {
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 40px;
-font-weight: 400;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFAE2B;
-z-index: 3;
-margin-bottom: 40px;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFAE2B;
+    z-index: 3;
+    margin-bottom: 40px;
 }
 
 .inst__btn {
     padding: 14px 24px;
     background: #FFAE2B;
-    font-family: 'Old Standard TT' , sans-serif;
-font-size: 11px;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: center;
-text-transform: uppercase;
-color: #181511;
+    font-family: 'Old Standard TT', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #181511;
 }
+
 .footer {
     background: #181511;
 
@@ -319,39 +320,46 @@ color: #181511;
 .footer__h {
     margin: 0 auto;
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 60px;
-line-height: 70px;
-text-align: center;
-color: #FFAE2B;
-width: 517px;
-margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFAE2B;
+    max-width: 517px;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 .fotter__p {
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 12px;
-line-height: 28px;
-text-align: center;
-color: #ACA592;
-margin-bottom: 82px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #ACA592;
+    margin-bottom: 82px;
 }
 
 .footer__wrap {
-  border-bottom: 1px solid #4B4136;
-  padding-bottom: 43px;
+    border-bottom: 1px solid #4B4136;
+    padding-bottom: 43px;
 }
 
 .footer__btn {
-    display: grid;
+    display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
     margin-bottom: 34px;
+    max-width: 420px;
+    width: 100%;
 }
 
 .f__btn {
     background: none;
-    width: 420px;
+    display: inline-block;
+    max-width: 420px;
+    width: 100%;
     height: 50px;
     border: 1px solid #4B4136;
     transition: 0.3s;
@@ -363,13 +371,14 @@ margin-bottom: 82px;
 
 .footer__p2 {
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 14px;
-line-height: 20px;
-text-align: center;
-color: #ACA592;
-margin: 0 auto;
-    width: 383px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #ACA592;
+    margin: 0 auto;
+    max-width: 383px;
+    width: 100%;
 }
 
 .footer__menu {
@@ -382,7 +391,8 @@ margin: 0 auto;
 .ff__p {
     position: relative;
     margin: 0 auto;
-    width: 383px;
+    max-width: 383px;
+    width: 100%;
     z-index: 2;
 }
 
@@ -391,12 +401,12 @@ margin: 0 auto;
     top: -2px;
     left: 81px;
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 14px;
-line-height: 20px;
-text-align: center;
-color: #FFAE2B;
-z-index: 1;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFAE2B;
+    z-index: 1;
 }
 
 .a__fot2 {
@@ -404,12 +414,12 @@ z-index: 1;
     top: 17px;
     left: 151px;
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 14px;
-line-height: 20px;
-text-align: center;
-color: #FFAE2B;
-z-index: 1;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFAE2B;
+    z-index: 1;
 }
 
 .footer__end {
@@ -424,39 +434,39 @@ z-index: 1;
 
 .end__p {
     font-family: 'Old Standard TT';
-font-size: 12px;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: left;
-color: #ACA592;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ACA592;
 
 }
 
 .end__p1 {
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 12px;
-line-height: 30px;
-color: #FFAE2B;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #FFAE2B;
 
 }
 
 .end__p2 {
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 11px;
-line-height: 30px;
-color: #FFAE2B;
-padding: 0 4px;
-border-right: 1px solid #4B4136;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 30px;
+    color: #FFAE2B;
+    padding: 0 4px;
+    border-right: 1px solid #4B4136;
 }
 
 .end__p3 {
     font-family: 'Old Standard TT';
-font-weight: 400;
-font-size: 11px;
-line-height: 30px;
-color: #FFAE2B;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 30px;
+    color: #FFAE2B;
 
 }
